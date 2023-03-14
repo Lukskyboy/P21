@@ -11,3 +11,7 @@ var Wiek = 33;
 
     else if (Kobieta == false && Wiek < 18)
     { Console.WriteLine("Niepełnoletni mężczyzna"); }
+
+    else
+    { Console.WriteLine("Inni"); }
+ 
