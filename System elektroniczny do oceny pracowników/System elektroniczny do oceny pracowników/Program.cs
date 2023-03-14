@@ -1,14 +1,13 @@
-﻿string Imie = ("Ewa");
-bool kobieta = true;
+﻿
+string Imie = "Ewa";
+bool Kobieta = true;
 var Wiek = 33;
 
+    if (Kobieta = true && Wiek < 30)
+    { Console.WriteLine("Kobieta poniżej 30 lat"); }
 
-if (kobieta == true && Wiek - 4 == 29)
-{ Console.WriteLine("Kobieta poniżej 30 lat"); }
+    else if (Kobieta = true && Imie == "Ewa" && Wiek == 33)
+    { Console.WriteLine("Ewa, lat 33"); }
 
-if (Imie == "Ewa" && kobieta == true && Wiek == 33)
-{ Console.WriteLine("Ewa, lat 33"); }
-
-if (Wiek < 18 && kobieta == false)
-{ Console.WriteLine("Niepełnoletni mężczyzna"); }
-
+    else if (Kobieta == false && Wiek < 18)
+    { Console.WriteLine("Niepełnoletni mężczyzna"); }
