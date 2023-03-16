@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zastosowanie Listy z Pętlą Foreach", "Zastosowanie Listy z Pętlą Foreach\Zastosowanie Listy z Pętlą Foreach.csproj", "{0579E572-CCCD-4610-B5F2-90C21D4FFCED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0579E572-CCCD-4610-B5F2-90C21D4FFCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0579E572-CCCD-4610-B5F2-90C21D4FFCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0579E572-CCCD-4610-B5F2-90C21D4FFCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0579E572-CCCD-4610-B5F2-90C21D4FFCED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8E25C7A-0766-4A5D-9114-49B83385933F}
+	EndGlobalSection
+EndGlobal
